@@ -1,0 +1,7 @@
+data/cancer_data.csv
+models/classifier.pkl
+models/scaler.pkl
+models/feature_names.pkl
+__pycache__/
+*.pyc
+.DS_Store

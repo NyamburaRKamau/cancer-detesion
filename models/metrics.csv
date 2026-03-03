@@ -1,0 +1,2 @@
+model,roc_auc,n_train,n_test
+Logistic Regression,0.9954,455,114
